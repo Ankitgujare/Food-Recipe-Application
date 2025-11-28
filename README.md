@@ -33,15 +33,7 @@ The Recipe Application is designed to make cooking easier and more enjoyable. It
 - Image loading with Coil
 
 ## 📸 App Screenshots
-
-*(Note: Add actual screenshots of your app here to showcase the UI)*
-
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="screenshots/home_screen.png" alt="Home Screen" width="200"/>
-  <img src="screenshots/search_functionality.png" alt="Search Functionality" width="200"/>
-  <img src="screenshots/recipe_details.png" alt="Recipe Details" width="200"/>
-  <img src="screenshots/bookmarks.png" alt="Bookmarks" width="200"/>
-</div>
+![Image Alt](https://github.com/Ankitgujare/Food-Recipe-Application/blob/8aacea7cac0439b21eee6c18566f07e3d766be97/Untitled%20design.png)
 
 ## 🛠️ Technologies Used
 
